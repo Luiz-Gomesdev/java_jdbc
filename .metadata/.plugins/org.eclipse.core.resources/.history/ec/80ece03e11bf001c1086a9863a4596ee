@@ -1,0 +1,16 @@
+package br.com.luiz.sql.application;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
+
+import db.DB;
+import db.DbIntegrityException;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+
+	}
+}
